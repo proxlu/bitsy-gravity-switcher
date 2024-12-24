@@ -1,6 +1,3 @@
-# bitsy-gravity-switcher
-Platformer system gravity switcher for bitsy.
-
 # Bitsy Gravity Switcher
 
 ## Overview
